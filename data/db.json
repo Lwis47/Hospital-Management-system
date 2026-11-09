@@ -1,0 +1,2181 @@
+{
+ "users": [
+  {
+   "id": "usr-mw84xlo3ch4t7",
+   "username": "admin",
+   "passwordHash": "3cc7b7addc2acb41383fe6b7004bf83a:f25af72c25f59f68b681872f4fb9dd6ef22d0af92ee5ccc12b89e68ef0496780553d313bf67c090be7bb6deca8eec69cd1ad84ec0eb2bba075360c8f1605c620",
+   "name": "System Administrator",
+   "role": "admin",
+   "phone": "",
+   "active": true,
+   "createdAt": "2026-11-08T17:57:40.554Z"
+  },
+  {
+   "id": "usr-mw84xlqir7i8i",
+   "username": "dr.adams",
+   "passwordHash": "eef21a3af11111a117b812a25be41bae:787d4c9b30a6ce4e9dbb585879314d64788b2c6b60f60555ef16e47b109e1f3b5f980af2d923d7f490f675547bcfaab0d72563ed6f875ffd2a3a913743061c59",
+   "name": "Dr. Sarah Adams",
+   "role": "doctor",
+   "phone": "",
+   "active": true,
+   "createdAt": "2026-11-08T17:57:40.641Z",
+   "department": "Internal Medicine",
+   "specialization": "Cardiologist",
+   "consultationFee": 50
+  },
+  {
+   "id": "usr-mw84xlsxx55ia",
+   "username": "dr.okafor",
+   "passwordHash": "2a77119faa3d81b7e4c50b6f1bf65e5b:2a48b232e991d743f6825ba3dd04f489537f3aa04d61cb29b78ee04415e9775f2bfad45374bb260288bfb643b816ef8290a6ba830e4f022f391ea0ae18dbb5f2",
+   "name": "Dr. James Okafor",
+   "role": "doctor",
+   "phone": "",
+   "active": true,
+   "createdAt": "2026-11-08T17:57:40.727Z",
+   "department": "Surgery",
+   "specialization": "General Surgeon",
+   "consultationFee": 60
+  },
+  {
+   "id": "usr-mw84xlvbozou6",
+   "username": "dr.nair",
+   "passwordHash": "f1d6c426fbb4bfba29d7afefae18fbca:10663e7746158000dff5e19f7d2ba570cd06fe2db9ef3017621c15316a96d83012bf57b3c4fa5aa63b50d7a199c4251aba1b17333cc86fe9b02a092410463595",
+   "name": "Dr. Priya Nair",
+   "role": "doctor",
+   "phone": "",
+   "active": true,
+   "createdAt": "2026-11-08T17:57:40.810Z",
+   "department": "Pediatrics",
+   "specialization": "Pediatrician",
+   "consultationFee": 45
+  },
+  {
+   "id": "usr-mw84xlxm7qxv6",
+   "username": "reception",
+   "passwordHash": "fa43ac7c220f155092088205a34e0b38:78aebf113b0ec75d24d7c38c50927033778dee5a1832103db6b627b129612a6724467f1ec9829d3fb6fa237f8fc3a948fcf03431fd75e84c4af067dbccbb5990",
+   "name": "Grace Moyo",
+   "role": "receptionist",
+   "phone": "",
+   "active": true,
+   "createdAt": "2026-11-08T17:57:40.902Z"
+  },
+  {
+   "id": "usr-mw84xm062z3qq",
+   "username": "nurse",
+   "passwordHash": "8fa81fc7b7855ebd273f4be45d2bae95:5a42a515ae47a05aa4453b550e45cd564ec9ac81cd188d02d88b31a5c0641db6f0a8f1d50c864095d468404e41b72ca9cd5c40a44c66e05cb39d2070fb64e3ae",
+   "name": "Daniel Reyes",
+   "role": "nurse",
+   "phone": "",
+   "active": true,
+   "createdAt": "2026-11-08T17:57:40.987Z"
+  },
+  {
+   "id": "usr-mw84xm2je5ghd",
+   "username": "pharma",
+   "passwordHash": "ec81c37ec96681061a014dcba0cbf582:23b9e9c8fb53b3f2fe5fd8daffaac3c6ccc2c290b3c42d842c9240992cbb3d5f217a82c3e9ca7393e833dc9a7d5fd9698df3a21a43c706d5fc079cb91b884533",
+   "name": "Linda Chen",
+   "role": "pharmacist",
+   "phone": "",
+   "active": true,
+   "createdAt": "2026-11-08T17:57:41.071Z"
+  },
+  {
+   "id": "usr-mw84xm4vdrtvq",
+   "username": "lab",
+   "passwordHash": "3f9b58655b074a96d89c7bc0b0886727:20beed8c5e1706c4c440dfbfbef84b7457a762a6b093aae1c1600e3f98bb6e28a7be0c1733a8c14771b774785104165c8746536283ec240de74c17ee031b5db1",
+   "name": "Samuel Otieno",
+   "role": "labtech",
+   "phone": "",
+   "active": true,
+   "createdAt": "2026-11-08T17:57:41.158Z"
+  },
+  {
+   "id": "usr-mw84xm7adle3o",
+   "username": "accounts",
+   "passwordHash": "95e281a82ed43da7de1a744f8c32b233:e66198cc75ff17233148c4d49840476498374eb5ef29dd5aa43fed29ac4eba1cd9ef8ce58b456028a1d256aef96ed1b69a368c0731b822ca8296c43aa7bc65a4",
+   "name": "Fatima Bello",
+   "role": "accountant",
+   "phone": "",
+   "active": true,
+   "createdAt": "2026-11-08T17:57:41.246Z"
+  },
+  {
+   "id": "usr-mw86512nxsb9m",
+   "username": "Abbie",
+   "passwordHash": "8f5d078e32da02e61b6b99827804a027:42b97579bb0761f03de518cc9f217f7c40e1ab93ed143b4ee7d410b7f96ebee83687be4841955e6be39a1f0a3cd86e0486f37556663aad8d1dd1d4b4b55a9b3c",
+   "name": "Abigael Wambia",
+   "role": "nurse",
+   "phone": "+254117238880",
+   "active": true,
+   "createdAt": "2026-11-08T18:31:26.724Z"
+  },
+  {
+   "id": "usr-mw8r8jltx7l63",
+   "username": "test.doc",
+   "passwordHash": "d4343214529dcd50d63a31a265f9b180:fd9efe242da0e2a6e984069649877bd5ddd29621a2843f8f4816d74e471ea8bbac7d955aa63803aab5c31011fda3e6c91364af9c55ae67565e77b5fecedb47b7",
+   "name": "Dr. Test",
+   "role": "doctor",
+   "phone": "",
+   "active": false,
+   "createdAt": "2026-11-09T04:22:02.847Z",
+   "department": "ENT",
+   "specialization": "",
+   "consultationFee": 40
+  }
+ ],
+ "patients": [
+  {
+   "id": "pat-mw84xm9qougkr",
+   "mrn": "MRN-0001",
+   "firstName": "John",
+   "lastName": "Banda",
+   "dob": "1985-03-14",
+   "gender": "Male",
+   "phone": "0771000001",
+   "email": "john.banda@example.com",
+   "address": "12 Unity Road, Springfield",
+   "bloodGroup": "O+",
+   "allergies": [
+    "Penicillin"
+   ],
+   "insurance": {
+    "provider": "National Health Insurance",
+    "policyNo": "NH-100234"
+   },
+   "emergencyContact": {
+    "name": "Relative of John",
+    "phone": "0771000001"
+   },
+   "createdAt": "2026-11-08T17:57:41.248Z"
+  },
+  {
+   "id": "pat-mw84xm9s7o956",
+   "mrn": "MRN-0002",
+   "firstName": "Mary",
+   "lastName": "Zulu",
+   "dob": "1990-07-22",
+   "gender": "Female",
+   "phone": "0771000002",
+   "email": "mary.zulu@example.com",
+   "address": "12 Unity Road, Springfield",
+   "bloodGroup": "A+",
+   "allergies": [],
+   "insurance": {
+    "provider": "MediCover",
+    "policyNo": "MC-55871"
+   },
+   "emergencyContact": {
+    "name": "Relative of Mary",
+    "phone": "0771000002"
+   },
+   "createdAt": "2026-11-08T17:57:41.250Z"
+  },
+  {
+   "id": "pat-mw84xm9u4wfto",
+   "mrn": "MRN-0003",
+   "firstName": "Peter",
+   "lastName": "Mwansa",
+   "dob": "1978-11-02",
+   "gender": "Male",
+   "phone": "0771000003",
+   "email": "peter.mwansa@example.com",
+   "address": "12 Unity Road, Springfield",
+   "bloodGroup": "B+",
+   "allergies": [
+    "Sulfa drugs"
+   ],
+   "insurance": null,
+   "emergencyContact": {
+    "name": "Relative of Peter",
+    "phone": "0771000003"
+   },
+   "createdAt": "2026-11-08T17:57:41.251Z"
+  },
+  {
+   "id": "pat-mw84xm9vr3v1i",
+   "mrn": "MRN-0004",
+   "firstName": "Aisha",
+   "lastName": "Kamau",
+   "dob": "2015-05-30",
+   "gender": "Female",
+   "phone": "0771000004",
+   "email": "aisha.kamau@example.com",
+   "address": "12 Unity Road, Springfield",
+   "bloodGroup": "O-",
+   "allergies": [],
+   "insurance": null,
+   "emergencyContact": {
+    "name": "Relative of Aisha",
+    "phone": "0771000004"
+   },
+   "createdAt": "2026-11-08T17:57:41.253Z"
+  },
+  {
+   "id": "pat-mw84xm9x9o8cw",
+   "mrn": "MRN-0005",
+   "firstName": "David",
+   "lastName": "Okello",
+   "dob": "1962-01-19",
+   "gender": "Male",
+   "phone": "0771000005",
+   "email": "david.okello@example.com",
+   "address": "12 Unity Road, Springfield",
+   "bloodGroup": "AB+",
+   "allergies": [],
+   "insurance": {
+    "provider": "National Health Insurance",
+    "policyNo": "NH-778812"
+   },
+   "emergencyContact": {
+    "name": "Relative of David",
+    "phone": "0771000005"
+   },
+   "createdAt": "2026-11-08T17:57:41.254Z"
+  },
+  {
+   "id": "pat-mw84xm9yd6vh2",
+   "mrn": "MRN-0006",
+   "firstName": "Lucy",
+   "lastName": "Tembo",
+   "dob": "1995-09-08",
+   "gender": "Female",
+   "phone": "0771000006",
+   "email": "lucy.tembo@example.com",
+   "address": "12 Unity Road, Springfield",
+   "bloodGroup": "A-",
+   "allergies": [
+    "Latex"
+   ],
+   "insurance": null,
+   "emergencyContact": {
+    "name": "Relative of Lucy",
+    "phone": "0771000006"
+   },
+   "createdAt": "2026-11-08T17:57:41.255Z"
+  },
+  {
+   "id": "pat-mw84xm9zeo14k",
+   "mrn": "MRN-0007",
+   "firstName": "Brian",
+   "lastName": "Phiri",
+   "dob": "1988-12-25",
+   "gender": "Male",
+   "phone": "0771000007",
+   "email": "brian.phiri@example.com",
+   "address": "12 Unity Road, Springfield",
+   "bloodGroup": "B-",
+   "allergies": [],
+   "insurance": null,
+   "emergencyContact": {
+    "name": "Relative of Brian",
+    "phone": "0771000007"
+   },
+   "createdAt": "2026-11-08T17:57:41.257Z"
+  },
+  {
+   "id": "pat-mw84xma1317iq",
+   "mrn": "MRN-0008",
+   "firstName": "Esther",
+   "lastName": "Nkomo",
+   "dob": "1970-04-11",
+   "gender": "Female",
+   "phone": "0771000008",
+   "email": "esther.nkomo@example.com",
+   "address": "12 Unity Road, Springfield",
+   "bloodGroup": "O+",
+   "allergies": [
+    "Aspirin"
+   ],
+   "insurance": {
+    "provider": "Seniors Care",
+    "policyNo": "SC-3321"
+   },
+   "emergencyContact": {
+    "name": "Relative of Esther",
+    "phone": "0771000008"
+   },
+   "createdAt": "2026-11-08T17:57:41.258Z"
+  },
+  {
+   "id": "pat-mw84ykxslenco",
+   "mrn": "MRN-0009",
+   "firstName": "Test",
+   "lastName": "Patient",
+   "dob": "1992-02-02",
+   "gender": "Female",
+   "phone": "077000111",
+   "email": "",
+   "address": "",
+   "bloodGroup": "",
+   "allergies": [
+    "Penicillin"
+   ],
+   "insurance": null,
+   "emergencyContact": null,
+   "createdAt": "2026-11-08T17:58:26.179Z"
+  },
+  {
+   "id": "pat-mw859063eqdn8",
+   "mrn": "MRN-0010",
+   "firstName": "Jane",
+   "lastName": "Doe",
+   "dob": "1990-05-15",
+   "gender": "Female",
+   "phone": "0772555000",
+   "email": "",
+   "address": "",
+   "bloodGroup": "",
+   "allergies": [],
+   "insurance": null,
+   "emergencyContact": null,
+   "createdAt": "2026-11-08T18:06:32.478Z"
+  },
+  {
+   "id": "pat-mw8r8ifczmk33",
+   "mrn": "MRN-0011",
+   "firstName": "Test",
+   "lastName": "Workflow",
+   "dob": "1990-01-01",
+   "gender": "Female",
+   "phone": "0770000000",
+   "email": "",
+   "address": "",
+   "bloodGroup": "O+",
+   "allergies": [
+    "Penicillin"
+   ],
+   "insurance": null,
+   "emergencyContact": null,
+   "createdAt": "2026-11-09T04:22:01.049Z"
+  }
+ ],
+ "departments": [
+  {
+   "id": "dep-mw84xm9qw2env",
+   "name": "Internal Medicine"
+  },
+  {
+   "id": "dep-mw84xm9qtsre2",
+   "name": "Surgery"
+  },
+  {
+   "id": "dep-mw84xm9q5jjxm",
+   "name": "Pediatrics"
+  },
+  {
+   "id": "dep-mw84xm9q8m2fo",
+   "name": "Obstetrics & Gynecology"
+  },
+  {
+   "id": "dep-mw84xm9qya4qa",
+   "name": "Emergency"
+  },
+  {
+   "id": "dep-mw84xm9qfnjnq",
+   "name": "Orthopedics"
+  },
+  {
+   "id": "dep-mw84xm9qvj3u4",
+   "name": "ENT"
+  },
+  {
+   "id": "dep-mw84xm9qhi5jw",
+   "name": "Dermatology"
+  },
+  {
+   "id": "dep-mw8r8jwxv26q1",
+   "name": "Oncology"
+  }
+ ],
+ "appointments": [
+  {
+   "id": "apt-mw84xma2d0vyb",
+   "patientId": "pat-mw84xm9qougkr",
+   "doctorId": "usr-mw84xlqir7i8i",
+   "date": "2026-11-08",
+   "time": "09:00",
+   "reason": "Chest pain and shortness of breath",
+   "status": "checked-in",
+   "createdAt": "2026-11-08T17:57:41.258Z"
+  },
+  {
+   "id": "apt-mw84xma25m88w",
+   "patientId": "pat-mw84xm9s7o956",
+   "doctorId": "usr-mw84xlvbozou6",
+   "date": "2026-11-08",
+   "time": "09:30",
+   "reason": "Child fever follow-up (guardian present)",
+   "status": "scheduled",
+   "createdAt": "2026-11-08T17:57:41.258Z"
+  },
+  {
+   "id": "apt-mw84xma25vxog",
+   "patientId": "pat-mw84xm9u4wfto",
+   "doctorId": "usr-mw84xlqir7i8i",
+   "date": "2026-11-08",
+   "time": "10:00",
+   "reason": "Hypertension review",
+   "status": "in-consultation",
+   "createdAt": "2026-11-08T17:57:41.258Z"
+  },
+  {
+   "id": "apt-mw84xma2grvqu",
+   "patientId": "pat-mw84xm9x9o8cw",
+   "doctorId": "usr-mw84xlsxx55ia",
+   "date": "2026-11-08",
+   "time": "11:00",
+   "reason": "Post-operative wound check",
+   "status": "scheduled",
+   "createdAt": "2026-11-08T17:57:41.258Z"
+  },
+  {
+   "id": "apt-mw84xma2wlmof",
+   "patientId": "pat-mw84xm9yd6vh2",
+   "doctorId": "usr-mw84xlvbozou6",
+   "date": "2026-11-09",
+   "time": "10:30",
+   "reason": "Routine check-up",
+   "status": "scheduled",
+   "createdAt": "2026-11-08T17:57:41.258Z"
+  },
+  {
+   "id": "apt-mw84xma2zmtve",
+   "patientId": "pat-mw84xm9vr3v1i",
+   "doctorId": "usr-mw84xlvbozou6",
+   "date": "2026-11-09",
+   "time": "09:00",
+   "reason": "Vaccination",
+   "status": "scheduled",
+   "createdAt": "2026-11-08T17:57:41.258Z"
+  },
+  {
+   "id": "apt-mw84yky3tqdk4",
+   "patientId": "pat-mw84ykxslenco",
+   "doctorId": "usr-mw84xlqir7i8i",
+   "date": "2026-11-08",
+   "time": "14:00",
+   "reason": "Fever and headache",
+   "status": "completed",
+   "createdAt": "2026-11-08T17:58:26.187Z"
+  },
+  {
+   "id": "apt-mw8r8ikny9teg",
+   "patientId": "pat-mw8r8ifczmk33",
+   "doctorId": "usr-mw84xlqir7i8i",
+   "date": "2026-11-09",
+   "time": "14:00",
+   "reason": "Test visit",
+   "status": "completed",
+   "createdAt": "2026-11-09T04:22:01.223Z"
+  }
+ ],
+ "encounters": [
+  {
+   "id": "enc-mw84xma2u8y3l",
+   "patientId": "pat-mw84xm9qougkr",
+   "doctorId": "usr-mw84xlqir7i8i",
+   "appointmentId": "apt-mw84xma2d0vyb",
+   "type": "outpatient",
+   "date": "2026-11-08",
+   "vitals": {
+    "bp": "145/92",
+    "pulse": 88,
+    "temp": 36.8,
+    "weight": 78,
+    "height": 175,
+    "spo2": 97
+   },
+   "complaints": "Chest pain on exertion for 3 days",
+   "diagnosis": "",
+   "notes": "",
+   "prescriptions": [],
+   "labOrderIds": [
+    "lab-mw84xma2uei09"
+   ],
+   "status": "open",
+   "followUpDate": null,
+   "createdAt": "2026-11-08T17:57:41.258Z"
+  },
+  {
+   "id": "enc-mw84ykyd0q6xk",
+   "patientId": "pat-mw84ykxslenco",
+   "doctorId": "usr-mw84xlqir7i8i",
+   "appointmentId": "apt-mw84yky3tqdk4",
+   "type": "outpatient",
+   "date": "2026-11-08",
+   "vitals": {
+    "bp": "120/80",
+    "pulse": 80,
+    "temp": 38.9
+   },
+   "complaints": "Fever 3 days",
+   "diagnosis": "Malaria (suspected)",
+   "notes": "",
+   "prescriptions": [
+    {
+     "drugId": "drg-mw84xma2phqu3",
+     "drugName": "Paracetamol 500mg",
+     "dose": "2 tabs",
+     "frequency": "3x daily",
+     "duration": "3 days",
+     "qty": 18,
+     "dispensed": 18
+    }
+   ],
+   "labOrderIds": [
+    "lab-mw84ykyq0b3zr"
+   ],
+   "status": "closed",
+   "followUpDate": null,
+   "billed": true,
+   "createdAt": "2026-11-08T17:58:26.197Z",
+   "closedAt": "2026-11-08T17:58:26.213Z"
+  },
+  {
+   "id": "enc-mw85g7ag9u0ke",
+   "patientId": "pat-mw84xm9u4wfto",
+   "doctorId": "usr-mw84xlqir7i8i",
+   "appointmentId": "apt-mw84xma25vxog",
+   "type": "outpatient",
+   "date": "2026-11-08",
+   "vitals": {
+    "bp": "150/95"
+   },
+   "complaints": "Hypertension review",
+   "diagnosis": "Essential hypertension, stage 2",
+   "notes": "",
+   "prescriptions": [],
+   "labOrderIds": [],
+   "status": "open",
+   "followUpDate": null,
+   "billed": false,
+   "createdAt": "2026-11-08T18:12:08.296Z"
+  },
+  {
+   "id": "enc-mw8r8ioga5lnq",
+   "patientId": "pat-mw8r8ifczmk33",
+   "doctorId": "usr-mw84xlqir7i8i",
+   "appointmentId": "apt-mw8r8ikny9teg",
+   "type": "outpatient",
+   "date": "2026-11-09",
+   "vitals": {
+    "bp": "120/80",
+    "pulse": "72"
+   },
+   "complaints": "Headache",
+   "diagnosis": "Tension headache",
+   "notes": "Rest advised",
+   "prescriptions": [
+    {
+     "drugId": "drg-mw84xma2phqu3",
+     "drugName": "Paracetamol 500mg",
+     "dose": "1 tab",
+     "frequency": "3x daily",
+     "duration": "3 days",
+     "qty": 9,
+     "dispensed": 9
+    }
+   ],
+   "labOrderIds": [
+    "lab-mw8r8j5yj75z9"
+   ],
+   "status": "closed",
+   "followUpDate": null,
+   "billed": true,
+   "createdAt": "2026-11-09T04:22:01.360Z",
+   "closedAt": "2026-11-09T04:22:02.173Z"
+  }
+ ],
+ "labTests": [
+  {
+   "id": "lt-mw84xma2egn1e",
+   "name": "Complete Blood Count (CBC)",
+   "category": "Hematology",
+   "price": 15,
+   "sampleType": "Blood"
+  },
+  {
+   "id": "lt-mw84xma2v35d2",
+   "name": "Malaria Smear",
+   "category": "Parasitology",
+   "price": 8,
+   "sampleType": "Blood"
+  },
+  {
+   "id": "lt-mw84xma20nqzr",
+   "name": "Blood Glucose (Fasting)",
+   "category": "Biochemistry",
+   "price": 6,
+   "sampleType": "Blood"
+  },
+  {
+   "id": "lt-mw84xma2ahl8h",
+   "name": "Urinalysis",
+   "category": "Microbiology",
+   "price": 7,
+   "sampleType": "Urine"
+  },
+  {
+   "id": "lt-mw84xma2hnz07",
+   "name": "Lipid Profile",
+   "category": "Biochemistry",
+   "price": 22,
+   "sampleType": "Blood"
+  },
+  {
+   "id": "lt-mw84xma2flpvq",
+   "name": "Liver Function Tests",
+   "category": "Biochemistry",
+   "price": 25,
+   "sampleType": "Blood"
+  },
+  {
+   "id": "lt-mw84xma2s96ta",
+   "name": "Renal Function Tests",
+   "category": "Biochemistry",
+   "price": 24,
+   "sampleType": "Blood"
+  },
+  {
+   "id": "lt-mw84xma2soxsm",
+   "name": "HIV Screening",
+   "category": "Serology",
+   "price": 10,
+   "sampleType": "Blood"
+  },
+  {
+   "id": "lt-mw84xma2eg8i0",
+   "name": "X-Ray Chest",
+   "category": "Radiology",
+   "price": 30,
+   "sampleType": "N/A"
+  },
+  {
+   "id": "lt-mw84xma2b6lhy",
+   "name": "Pregnancy Test (hCG)",
+   "category": "Serology",
+   "price": 8,
+   "sampleType": "Urine"
+  }
+ ],
+ "labOrders": [
+  {
+   "id": "lab-mw84xma2uei09",
+   "encounterId": "enc-mw84xma2u8y3l",
+   "patientId": "pat-mw84xm9qougkr",
+   "testId": "lt-mw84xma2egn1e",
+   "status": "ordered",
+   "result": "",
+   "resultDate": null,
+   "notes": "Rule out anemia",
+   "orderedBy": "usr-mw84xlqir7i8i",
+   "technicianId": null,
+   "createdAt": "2026-11-08T17:57:41.258Z"
+  },
+  {
+   "id": "lab-mw84ykyq0b3zr",
+   "encounterId": "enc-mw84ykyd0q6xk",
+   "patientId": "pat-mw84ykxslenco",
+   "testId": "lt-mw84xma2v35d2",
+   "status": "completed",
+   "result": "Plasmodium falciparum detected (+++)",
+   "resultDate": "2026-11-08T17:58:26.237Z",
+   "notes": "",
+   "orderedBy": "usr-mw84xlo3ch4t7",
+   "technicianId": "usr-mw84xlo3ch4t7",
+   "billed": true,
+   "createdAt": "2026-11-08T17:58:26.210Z"
+  },
+  {
+   "id": "lab-mw8r8j5yj75z9",
+   "encounterId": "enc-mw8r8ioga5lnq",
+   "patientId": "pat-mw8r8ifczmk33",
+   "testId": "lt-mw84xma2egn1e",
+   "status": "completed",
+   "result": "Normal ranges",
+   "resultDate": "2026-11-09T04:22:02.058Z",
+   "notes": "routine",
+   "orderedBy": "usr-mw84xlqir7i8i",
+   "technicianId": "usr-mw84xm4vdrtvq",
+   "billed": true,
+   "createdAt": "2026-11-09T04:22:01.990Z"
+  }
+ ],
+ "drugs": [
+  {
+   "id": "drg-mw84xma2phqu3",
+   "name": "Paracetamol 500mg",
+   "genericName": "Acetaminophen",
+   "category": "Analgesic",
+   "unit": "Tablet",
+   "stock": 1173,
+   "reorderLevel": 200,
+   "price": 0.5,
+   "batchNo": "B-2291",
+   "expiryDate": "2028-05-01"
+  },
+  {
+   "id": "drg-mw84xma212fwr",
+   "name": "Amoxicillin 500mg",
+   "genericName": "Amoxicillin",
+   "category": "Antibiotic",
+   "unit": "Capsule",
+   "stock": 800,
+   "reorderLevel": 150,
+   "price": 1.2,
+   "batchNo": "B-1187",
+   "expiryDate": "2027-12-13"
+  },
+  {
+   "id": "drg-mw84xma2a5nbm",
+   "name": "Ibuprofen 400mg",
+   "genericName": "Ibuprofen",
+   "category": "NSAID",
+   "unit": "Tablet",
+   "stock": 650,
+   "reorderLevel": 150,
+   "price": 0.8,
+   "batchNo": "B-3320",
+   "expiryDate": "2027-11-08"
+  },
+  {
+   "id": "drg-mw84xma2x3p36",
+   "name": "Metformin 500mg",
+   "genericName": "Metformin HCl",
+   "category": "Antidiabetic",
+   "unit": "Tablet",
+   "stock": 90,
+   "reorderLevel": 100,
+   "price": 0.9,
+   "batchNo": "B-4410",
+   "expiryDate": "2028-03-22"
+  },
+  {
+   "id": "drg-mw84xma2wzcmd",
+   "name": "Amlodipine 5mg",
+   "genericName": "Amlodipine",
+   "category": "Antihypertensive",
+   "unit": "Tablet",
+   "stock": 400,
+   "reorderLevel": 100,
+   "price": 1.1,
+   "batchNo": "B-4411",
+   "expiryDate": "2028-03-02"
+  },
+  {
+   "id": "drg-mw84xma2rznuq",
+   "name": "ORS Sachet",
+   "genericName": "Oral Rehydration Salts",
+   "category": "Electrolyte",
+   "unit": "Sachet",
+   "stock": 300,
+   "reorderLevel": 50,
+   "price": 1,
+   "batchNo": "B-5501",
+   "expiryDate": "2028-10-08"
+  },
+  {
+   "id": "drg-mw84xma2up4jr",
+   "name": "Artemether/Lumefantrine 20/120mg",
+   "genericName": "Co-artem",
+   "category": "Antimalarial",
+   "unit": "Tablet",
+   "stock": 240,
+   "reorderLevel": 60,
+   "price": 2.5,
+   "batchNo": "B-5502",
+   "expiryDate": "2026-12-03"
+  },
+  {
+   "id": "drg-mw84xma27f75a",
+   "name": "Ceftriaxone 1g Injection",
+   "genericName": "Ceftriaxone",
+   "category": "Antibiotic",
+   "unit": "Vial",
+   "stock": 150,
+   "reorderLevel": 40,
+   "price": 4,
+   "batchNo": "B-6601",
+   "expiryDate": "2027-09-04"
+  },
+  {
+   "id": "drg-mw84xma24jsra",
+   "name": "Omeprazole 20mg",
+   "genericName": "Omeprazole",
+   "category": "Antacid",
+   "unit": "Capsule",
+   "stock": 500,
+   "reorderLevel": 100,
+   "price": 1,
+   "batchNo": "B-6602",
+   "expiryDate": "2028-01-02"
+  },
+  {
+   "id": "drg-mw84xma2crccd",
+   "name": "Cetirizine 10mg",
+   "genericName": "Cetirizine",
+   "category": "Antihistamine",
+   "unit": "Tablet",
+   "stock": 350,
+   "reorderLevel": 80,
+   "price": 0.6,
+   "batchNo": "B-7701",
+   "expiryDate": "2027-11-23"
+  },
+  {
+   "id": "drg-mw84xma2yj5ks",
+   "name": "Insulin Soluble 100IU/ml",
+   "genericName": "Human Insulin",
+   "category": "Antidiabetic",
+   "unit": "Vial",
+   "stock": 45,
+   "reorderLevel": 20,
+   "price": 12,
+   "batchNo": "B-7702",
+   "expiryDate": "2027-05-27"
+  },
+  {
+   "id": "drg-mw84xma2zpwyo",
+   "name": "Salbutamol Inhaler",
+   "genericName": "Salbutamol",
+   "category": "Bronchodilator",
+   "unit": "Inhaler",
+   "stock": 60,
+   "reorderLevel": 15,
+   "price": 6.5,
+   "batchNo": "B-8801",
+   "expiryDate": "2028-02-01"
+  }
+ ],
+ "dispenses": [
+  {
+   "id": "dsp-mw84ykz3lka46",
+   "patientId": "pat-mw84ykxslenco",
+   "encounterId": "enc-mw84ykyd0q6xk",
+   "drugId": "drg-mw84xma2phqu3",
+   "drugName": "Paracetamol 500mg",
+   "qty": 18,
+   "unit": "Tablet",
+   "unitPrice": 0.5,
+   "total": 9,
+   "pharmacistId": "usr-mw84xlo3ch4t7",
+   "pharmacistName": "System Administrator",
+   "date": "2026-11-08T17:58:26.223Z"
+  },
+  {
+   "id": "dsp-mw8r8j9am6q1d",
+   "patientId": "pat-mw8r8ifczmk33",
+   "encounterId": "enc-mw8r8ioga5lnq",
+   "drugId": "drg-mw84xma2phqu3",
+   "drugName": "Paracetamol 500mg",
+   "qty": 9,
+   "unit": "Tablet",
+   "unitPrice": 0.5,
+   "total": 4.5,
+   "pharmacistId": "usr-mw84xm2je5ghd",
+   "pharmacistName": "Linda Chen",
+   "date": "2026-11-09T04:22:02.110Z"
+  }
+ ],
+ "wards": [
+  {
+   "id": "wrd-mw84xma2svjke",
+   "name": "General Male",
+   "type": "General",
+   "dailyRate": 20
+  },
+  {
+   "id": "wrd-mw84xma230531",
+   "name": "General Female",
+   "type": "General",
+   "dailyRate": 20
+  },
+  {
+   "id": "wrd-mw84xma2t4n2s",
+   "name": "Private",
+   "type": "Private",
+   "dailyRate": 60
+  },
+  {
+   "id": "wrd-mw84xma2sv8g1",
+   "name": "ICU",
+   "type": "Intensive Care",
+   "dailyRate": 120
+  },
+  {
+   "id": "wrd-mw84xma26dy0x",
+   "name": "Maternity",
+   "type": "Maternity",
+   "dailyRate": 30
+  },
+  {
+   "id": "wrd-mw84xma23stss",
+   "name": "Pediatric",
+   "type": "Pediatric",
+   "dailyRate": 25
+  }
+ ],
+ "beds": [
+  {
+   "id": "bed-mw84xma205c9j",
+   "wardId": "wrd-mw84xma2svjke",
+   "label": "General-01",
+   "status": "occupied",
+   "patientId": "pat-mw84xm9x9o8cw"
+  },
+  {
+   "id": "bed-mw84xma2vbg6t",
+   "wardId": "wrd-mw84xma2svjke",
+   "label": "General-02",
+   "status": "cleaning",
+   "patientId": null
+  },
+  {
+   "id": "bed-mw84xma27dg56",
+   "wardId": "wrd-mw84xma2svjke",
+   "label": "General-03",
+   "status": "cleaning",
+   "patientId": null
+  },
+  {
+   "id": "bed-mw84xma2b5nri",
+   "wardId": "wrd-mw84xma2svjke",
+   "label": "General-04",
+   "status": "available",
+   "patientId": null
+  },
+  {
+   "id": "bed-mw84xma2wqjzg",
+   "wardId": "wrd-mw84xma2svjke",
+   "label": "General-05",
+   "status": "available",
+   "patientId": null
+  },
+  {
+   "id": "bed-mw84xma2kj6io",
+   "wardId": "wrd-mw84xma2svjke",
+   "label": "General-06",
+   "status": "available",
+   "patientId": null
+  },
+  {
+   "id": "bed-mw84xma2gpvm3",
+   "wardId": "wrd-mw84xma230531",
+   "label": "General-01",
+   "status": "available",
+   "patientId": null
+  },
+  {
+   "id": "bed-mw84xma2kcxfx",
+   "wardId": "wrd-mw84xma230531",
+   "label": "General-02",
+   "status": "available",
+   "patientId": null
+  },
+  {
+   "id": "bed-mw84xma2r40xd",
+   "wardId": "wrd-mw84xma230531",
+   "label": "General-03",
+   "status": "available",
+   "patientId": null
+  },
+  {
+   "id": "bed-mw84xma26cnxu",
+   "wardId": "wrd-mw84xma230531",
+   "label": "General-04",
+   "status": "available",
+   "patientId": null
+  },
+  {
+   "id": "bed-mw84xma2tvlx8",
+   "wardId": "wrd-mw84xma230531",
+   "label": "General-05",
+   "status": "available",
+   "patientId": null
+  },
+  {
+   "id": "bed-mw84xma2lqqiz",
+   "wardId": "wrd-mw84xma230531",
+   "label": "General-06",
+   "status": "available",
+   "patientId": null
+  },
+  {
+   "id": "bed-mw84xma2vcqan",
+   "wardId": "wrd-mw84xma2t4n2s",
+   "label": "Private-01",
+   "status": "available",
+   "patientId": null
+  },
+  {
+   "id": "bed-mw84xma28hkes",
+   "wardId": "wrd-mw84xma2t4n2s",
+   "label": "Private-02",
+   "status": "available",
+   "patientId": null
+  },
+  {
+   "id": "bed-mw84xma2or8ll",
+   "wardId": "wrd-mw84xma2t4n2s",
+   "label": "Private-03",
+   "status": "available",
+   "patientId": null
+  },
+  {
+   "id": "bed-mw84xma27edmm",
+   "wardId": "wrd-mw84xma2t4n2s",
+   "label": "Private-04",
+   "status": "available",
+   "patientId": null
+  },
+  {
+   "id": "bed-mw84xma2sak3g",
+   "wardId": "wrd-mw84xma2sv8g1",
+   "label": "ICU-01",
+   "status": "available",
+   "patientId": null
+  },
+  {
+   "id": "bed-mw84xma2q20wc",
+   "wardId": "wrd-mw84xma2sv8g1",
+   "label": "ICU-02",
+   "status": "available",
+   "patientId": null
+  },
+  {
+   "id": "bed-mw84xma20lx7y",
+   "wardId": "wrd-mw84xma2sv8g1",
+   "label": "ICU-03",
+   "status": "available",
+   "patientId": null
+  },
+  {
+   "id": "bed-mw84xma2ccpy1",
+   "wardId": "wrd-mw84xma26dy0x",
+   "label": "Maternity-01",
+   "status": "available",
+   "patientId": null
+  },
+  {
+   "id": "bed-mw84xma26vxh8",
+   "wardId": "wrd-mw84xma26dy0x",
+   "label": "Maternity-02",
+   "status": "available",
+   "patientId": null
+  },
+  {
+   "id": "bed-mw84xma2p2ey0",
+   "wardId": "wrd-mw84xma26dy0x",
+   "label": "Maternity-03",
+   "status": "available",
+   "patientId": null
+  },
+  {
+   "id": "bed-mw84xma2gr6h2",
+   "wardId": "wrd-mw84xma26dy0x",
+   "label": "Maternity-04",
+   "status": "available",
+   "patientId": null
+  },
+  {
+   "id": "bed-mw84xma2ifpkq",
+   "wardId": "wrd-mw84xma23stss",
+   "label": "Pediatric-01",
+   "status": "available",
+   "patientId": null
+  },
+  {
+   "id": "bed-mw84xma2jysln",
+   "wardId": "wrd-mw84xma23stss",
+   "label": "Pediatric-02",
+   "status": "available",
+   "patientId": null
+  },
+  {
+   "id": "bed-mw84xma27o5nv",
+   "wardId": "wrd-mw84xma23stss",
+   "label": "Pediatric-03",
+   "status": "available",
+   "patientId": null
+  },
+  {
+   "id": "bed-mw84xma2tu2ok",
+   "wardId": "wrd-mw84xma23stss",
+   "label": "Pediatric-04",
+   "status": "available",
+   "patientId": null
+  }
+ ],
+ "admissions": [
+  {
+   "id": "adm-mw84xma2jg0kg",
+   "patientId": "pat-mw84xm9x9o8cw",
+   "bedId": "bed-mw84xma205c9j",
+   "doctorId": "usr-mw84xlsxx55ia",
+   "admitDate": "2026-11-06",
+   "dischargeDate": null,
+   "diagnosis": "Post-appendectomy observation",
+   "status": "admitted",
+   "notes": "Stable. Monitor wound site.",
+   "createdAt": "2026-11-08T17:57:41.258Z"
+  },
+  {
+   "id": "adm-mw84ykzvsxinf",
+   "patientId": "pat-mw84ykxslenco",
+   "bedId": "bed-mw84xma2vbg6t",
+   "doctorId": "usr-mw84xlqir7i8i",
+   "admitDate": "2026-11-08",
+   "dischargeDate": "2026-11-08",
+   "diagnosis": "Malaria observation",
+   "status": "discharged",
+   "notes": "",
+   "createdAt": "2026-11-08T17:58:26.251Z"
+  },
+  {
+   "id": "adm-mw8r8ji6rsw1u",
+   "patientId": "pat-mw8r8ifczmk33",
+   "bedId": "bed-mw84xma2b5nri",
+   "doctorId": "usr-mw84xlqir7i8i",
+   "admitDate": "2026-11-09",
+   "dischargeDate": "2026-11-09",
+   "diagnosis": "Observation",
+   "status": "discharged",
+   "notes": "",
+   "createdAt": "2026-11-09T04:22:02.430Z"
+  }
+ ],
+ "services": [
+  {
+   "id": "svc-mw84xma2mf8wc",
+   "name": "General Consultation",
+   "category": "Consultation",
+   "price": 30
+  },
+  {
+   "id": "svc-mw84xma2yfz5d",
+   "name": "Specialist Consultation",
+   "category": "Consultation",
+   "price": 60
+  },
+  {
+   "id": "svc-mw84xma2jpx1b",
+   "name": "Wound Dressing",
+   "category": "Procedure",
+   "price": 12
+  },
+  {
+   "id": "svc-mw84xma2vfyvf",
+   "name": "Injection Administration",
+   "category": "Procedure",
+   "price": 5
+  },
+  {
+   "id": "svc-mw84xma2brtbw",
+   "name": "Nebulization",
+   "category": "Procedure",
+   "price": 10
+  },
+  {
+   "id": "svc-mw84xma2fmetu",
+   "name": "ECG",
+   "category": "Diagnostic",
+   "price": 25
+  },
+  {
+   "id": "svc-mw84xma2474dm",
+   "name": "Normal Delivery",
+   "category": "Obstetric",
+   "price": 250
+  },
+  {
+   "id": "svc-mw84xma25mwit",
+   "name": "Minor Surgery",
+   "category": "Surgical",
+   "price": 400
+  },
+  {
+   "id": "svc-mw84xma2bctas",
+   "name": "Physiotherapy Session",
+   "category": "Therapy",
+   "price": 20
+  }
+ ],
+ "invoices": [
+  {
+   "id": "inv-mw84xma2nxwin",
+   "number": "INV-0001",
+   "patientId": "pat-mw84xm9x9o8cw",
+   "items": [
+    {
+     "desc": "Minor Surgery (appendectomy)",
+     "qty": 1,
+     "price": 400,
+     "total": 400
+    },
+    {
+     "desc": "Bed charge — General Male (2 days)",
+     "qty": 2,
+     "price": 20,
+     "total": 40
+    }
+   ],
+   "total": 440,
+   "paid": 200,
+   "balance": 240,
+   "status": "partial",
+   "payments": [
+    {
+     "amount": 200,
+     "method": "Mobile Money",
+     "date": "2026-11-08T17:57:41.260Z",
+     "by": "Fatima Bello"
+    }
+   ],
+   "createdAt": "2026-11-08T17:57:41.260Z"
+  },
+  {
+   "id": "inv-mw84ykyutqd2z",
+   "number": "INV-0002",
+   "patientId": "pat-mw84ykxslenco",
+   "items": [
+    {
+     "desc": "Consultation — Dr. Sarah Adams (2026-11-08)",
+     "qty": 1,
+     "price": 50,
+     "total": 50
+    },
+    {
+     "desc": "Pharmacy: Paracetamol 500mg",
+     "qty": 18,
+     "price": 0.5,
+     "total": 9
+    },
+    {
+     "desc": "Lab: Malaria Smear",
+     "qty": 1,
+     "price": 8,
+     "total": 8
+    }
+   ],
+   "total": 67,
+   "paid": 67,
+   "balance": 0,
+   "status": "paid",
+   "payments": [
+    {
+     "amount": 67,
+     "method": "Mobile Money",
+     "date": "2026-11-08T17:58:26.245Z",
+     "by": "System Administrator",
+     "reference": ""
+    }
+   ],
+   "createdAt": "2026-11-08T17:58:26.215Z"
+  },
+  {
+   "id": "inv-mw84ykzy1y13j",
+   "number": "INV-0003",
+   "patientId": "pat-mw84ykxslenco",
+   "items": [
+    {
+     "desc": "Bed charge — General Male (1 day)",
+     "qty": 1,
+     "price": 20,
+     "total": 20
+    }
+   ],
+   "total": 20,
+   "paid": 0,
+   "balance": 20,
+   "status": "unpaid",
+   "payments": [],
+   "createdAt": "2026-11-08T17:58:26.256Z"
+  },
+  {
+   "id": "inv-mw8r8j7vtn1it",
+   "number": "INV-0004",
+   "patientId": "pat-mw8r8ifczmk33",
+   "items": [
+    {
+     "desc": "Lab: Complete Blood Count (CBC)",
+     "qty": 1,
+     "price": 15,
+     "total": 15
+    },
+    {
+     "desc": "Pharmacy: Paracetamol 500mg",
+     "qty": 9,
+     "price": 0.5,
+     "total": 4.5
+    },
+    {
+     "desc": "Consultation — Dr. Sarah Adams (2026-11-09)",
+     "qty": 1,
+     "price": 50,
+     "total": 50
+    },
+    {
+     "desc": "Wound Dressing",
+     "qty": 1,
+     "price": 12,
+     "total": 12
+    }
+   ],
+   "total": 81.5,
+   "paid": 81.5,
+   "balance": 0,
+   "status": "paid",
+   "payments": [
+    {
+     "amount": 81.5,
+     "method": "Mobile Money",
+     "date": "2026-11-09T04:22:02.377Z",
+     "by": "Fatima Bello",
+     "reference": "TX123"
+    }
+   ],
+   "createdAt": "2026-11-09T04:22:02.064Z"
+  },
+  {
+   "id": "inv-mw8r8jj6zjios",
+   "number": "INV-0005",
+   "patientId": "pat-mw8r8ifczmk33",
+   "items": [
+    {
+     "desc": "Bed charge — General Male (1 day, transfer)",
+     "qty": 1,
+     "price": 20,
+     "total": 20
+    },
+    {
+     "desc": "Bed charge — General Male (1 day)",
+     "qty": 1,
+     "price": 20,
+     "total": 20
+    }
+   ],
+   "total": 40,
+   "paid": 0,
+   "balance": 40,
+   "status": "unpaid",
+   "payments": [],
+   "createdAt": "2026-11-09T04:22:02.476Z"
+  }
+ ],
+ "audit": [
+  {
+   "id": "aud-mw8r8jwxtp31q",
+   "userId": "usr-mw84xlo3ch4t7",
+   "userName": "System Administrator",
+   "action": "create",
+   "entity": "department",
+   "entityId": "dep-mw8r8jwxv26q1",
+   "detail": "Oncology",
+   "date": "2026-11-09T04:22:02.961Z"
+  },
+  {
+   "id": "aud-mw8r8jv1y8u07",
+   "userId": "usr-mw84xlo3ch4t7",
+   "userName": "System Administrator",
+   "action": "update",
+   "entity": "user",
+   "entityId": "usr-mw8r8jltx7l63",
+   "detail": "test.doc",
+   "date": "2026-11-09T04:22:02.893Z"
+  },
+  {
+   "id": "aud-mw8r8jtrfckps",
+   "userId": "usr-mw84xlo3ch4t7",
+   "userName": "System Administrator",
+   "action": "create",
+   "entity": "user",
+   "entityId": "usr-mw8r8jltx7l63",
+   "detail": "test.doc (doctor)",
+   "date": "2026-11-09T04:22:02.847Z"
+  },
+  {
+   "id": "aud-mw8r8jleb3va4",
+   "userId": "usr-mw84xm062z3qq",
+   "userName": "Daniel Reyes",
+   "action": "update",
+   "entity": "bed",
+   "entityId": "bed-mw84xma2b5nri",
+   "detail": "available",
+   "date": "2026-11-09T04:22:02.546Z"
+  },
+  {
+   "id": "aud-mw8r8jkylncdm",
+   "userId": "usr-mw84xm062z3qq",
+   "userName": "Daniel Reyes",
+   "action": "discharge",
+   "entity": "admission",
+   "entityId": "adm-mw8r8ji6rsw1u",
+   "detail": "1 day(s)",
+   "date": "2026-11-09T04:22:02.530Z"
+  },
+  {
+   "id": "aud-mw8r8jktza2pb",
+   "userId": "usr-mw84xm062z3qq",
+   "userName": "Daniel Reyes",
+   "action": "bill",
+   "entity": "invoice",
+   "entityId": "inv-mw8r8jj6zjios",
+   "detail": "Bed charge — General Male (1 day)",
+   "date": "2026-11-09T04:22:02.525Z"
+  },
+  {
+   "id": "aud-mw8r8jkd7v67q",
+   "userId": "usr-mw84xm062z3qq",
+   "userName": "Daniel Reyes",
+   "action": "transfer",
+   "entity": "admission",
+   "entityId": "adm-mw8r8ji6rsw1u",
+   "detail": "General-03 -> General-04",
+   "date": "2026-11-09T04:22:02.509Z"
+  },
+  {
+   "id": "aud-mw8r8jjm84w3t",
+   "userId": "usr-mw84xm062z3qq",
+   "userName": "Daniel Reyes",
+   "action": "bill",
+   "entity": "invoice",
+   "entityId": "inv-mw8r8jj6zjios",
+   "detail": "Bed charge — General Male (1 day, transfer)",
+   "date": "2026-11-09T04:22:02.482Z"
+  },
+  {
+   "id": "aud-mw8r8ji6dsgct",
+   "userId": "usr-mw84xlqir7i8i",
+   "userName": "Dr. Sarah Adams",
+   "action": "admit",
+   "entity": "admission",
+   "entityId": "adm-mw8r8ji6rsw1u",
+   "detail": "bed General-03",
+   "date": "2026-11-09T04:22:02.430Z"
+  },
+  {
+   "id": "aud-mw8r8jgp785l6",
+   "userId": "usr-mw84xm7adle3o",
+   "userName": "Fatima Bello",
+   "action": "payment",
+   "entity": "invoice",
+   "entityId": "inv-mw8r8j7vtn1it",
+   "detail": "81.5 via Mobile Money",
+   "date": "2026-11-09T04:22:02.377Z"
+  },
+  {
+   "id": "aud-mw8r8jg3etq5j",
+   "userId": "usr-mw84xm7adle3o",
+   "userName": "Fatima Bello",
+   "action": "update",
+   "entity": "invoice",
+   "entityId": "inv-mw8r8j7vtn1it",
+   "detail": "added item: Wound Dressing",
+   "date": "2026-11-09T04:22:02.355Z"
+  },
+  {
+   "id": "aud-mw8r8jdipnwyk",
+   "userId": "usr-mw84xlqir7i8i",
+   "userName": "Dr. Sarah Adams",
+   "action": "update",
+   "entity": "encounter",
+   "entityId": "enc-mw8r8ioga5lnq",
+   "detail": "closed",
+   "date": "2026-11-09T04:22:02.262Z"
+  },
+  {
+   "id": "aud-mw8r8jd4fdcvz",
+   "userId": "usr-mw84xlqir7i8i",
+   "userName": "Dr. Sarah Adams",
+   "action": "bill",
+   "entity": "invoice",
+   "entityId": "inv-mw8r8j7vtn1it",
+   "detail": "Consultation — Dr. Sarah Adams (2026-11-09)",
+   "date": "2026-11-09T04:22:02.248Z"
+  },
+  {
+   "id": "aud-mw8r8jaev0lnd",
+   "userId": "usr-mw84xm2je5ghd",
+   "userName": "Linda Chen",
+   "action": "dispense",
+   "entity": "drug",
+   "entityId": "drg-mw84xma2phqu3",
+   "detail": "9 x Paracetamol 500mg",
+   "date": "2026-11-09T04:22:02.150Z"
+  },
+  {
+   "id": "aud-mw8r8j9n0tmxm",
+   "userId": "usr-mw84xm2je5ghd",
+   "userName": "Linda Chen",
+   "action": "bill",
+   "entity": "invoice",
+   "entityId": "inv-mw8r8j7vtn1it",
+   "detail": "Pharmacy: Paracetamol 500mg",
+   "date": "2026-11-09T04:22:02.123Z"
+  },
+  {
+   "id": "aud-mw8r8j8ecnxgz",
+   "userId": "usr-mw84xm4vdrtvq",
+   "userName": "Samuel Otieno",
+   "action": "update",
+   "entity": "labOrder",
+   "entityId": "lab-mw8r8j5yj75z9",
+   "detail": "completed",
+   "date": "2026-11-09T04:22:02.078Z"
+  },
+  {
+   "id": "aud-mw8r8j89xjnei",
+   "userId": "usr-mw84xm4vdrtvq",
+   "userName": "Samuel Otieno",
+   "action": "bill",
+   "entity": "invoice",
+   "entityId": "inv-mw8r8j7vtn1it",
+   "detail": "Lab: Complete Blood Count (CBC)",
+   "date": "2026-11-09T04:22:02.073Z"
+  },
+  {
+   "id": "aud-mw8r8j6kl9hrw",
+   "userId": "usr-mw84xm4vdrtvq",
+   "userName": "Samuel Otieno",
+   "action": "update",
+   "entity": "labOrder",
+   "entityId": "lab-mw8r8j5yj75z9",
+   "detail": "processing",
+   "date": "2026-11-09T04:22:02.012Z"
+  },
+  {
+   "id": "aud-mw8r8j6739hwn",
+   "userId": "usr-mw84xm4vdrtvq",
+   "userName": "Samuel Otieno",
+   "action": "update",
+   "entity": "labOrder",
+   "entityId": "lab-mw8r8j5yj75z9",
+   "detail": "sample-collected",
+   "date": "2026-11-09T04:22:01.999Z"
+  },
+  {
+   "id": "aud-mw8r8j5y57hhv",
+   "userId": "usr-mw84xlqir7i8i",
+   "userName": "Dr. Sarah Adams",
+   "action": "order",
+   "entity": "labOrder",
+   "entityId": "lab-mw8r8j5yj75z9",
+   "detail": "Complete Blood Count (CBC)",
+   "date": "2026-11-09T04:22:01.990Z"
+  },
+  {
+   "id": "aud-mw8r8j5kx37m5",
+   "userId": "usr-mw84xlqir7i8i",
+   "userName": "Dr. Sarah Adams",
+   "action": "update",
+   "entity": "encounter",
+   "entityId": "enc-mw8r8ioga5lnq",
+   "detail": "open",
+   "date": "2026-11-09T04:22:01.976Z"
+  },
+  {
+   "id": "aud-mw8r8iotesut2",
+   "userId": "usr-mw84xm062z3qq",
+   "userName": "Daniel Reyes",
+   "action": "update",
+   "entity": "encounter",
+   "entityId": "enc-mw8r8ioga5lnq",
+   "detail": "open",
+   "date": "2026-11-09T04:22:01.373Z"
+  },
+  {
+   "id": "aud-mw8r8iogt2qba",
+   "userId": "usr-mw84xlqir7i8i",
+   "userName": "Dr. Sarah Adams",
+   "action": "create",
+   "entity": "encounter",
+   "entityId": "enc-mw8r8ioga5lnq",
+   "detail": "MRN-0011",
+   "date": "2026-11-09T04:22:01.360Z"
+  },
+  {
+   "id": "aud-mw8r8inuq7agr",
+   "userId": "usr-mw84xlxm7qxv6",
+   "userName": "Grace Moyo",
+   "action": "update",
+   "entity": "appointment",
+   "entityId": "apt-mw8r8ikny9teg",
+   "detail": "checked-in",
+   "date": "2026-11-09T04:22:01.338Z"
+  },
+  {
+   "id": "aud-mw8r8ikn2shou",
+   "userId": "usr-mw84xlxm7qxv6",
+   "userName": "Grace Moyo",
+   "action": "create",
+   "entity": "appointment",
+   "entityId": "apt-mw8r8ikny9teg",
+   "detail": "2026-11-09 14:00 with Dr. Sarah Adams",
+   "date": "2026-11-09T04:22:01.223Z"
+  },
+  {
+   "id": "aud-mw8r8ik4otxxd",
+   "userId": "usr-mw84xlxm7qxv6",
+   "userName": "Grace Moyo",
+   "action": "update",
+   "entity": "patient",
+   "entityId": "pat-mw8r8ifczmk33",
+   "detail": null,
+   "date": "2026-11-09T04:22:01.204Z"
+  },
+  {
+   "id": "aud-mw8r8iftyxp0b",
+   "userId": "usr-mw84xlxm7qxv6",
+   "userName": "Grace Moyo",
+   "action": "create",
+   "entity": "patient",
+   "entityId": "pat-mw8r8ifczmk33",
+   "detail": "Test Workflow (MRN-0011)",
+   "date": "2026-11-09T04:22:01.049Z"
+  },
+  {
+   "id": "aud-mw8r8iddfire4",
+   "userId": "usr-mw84xm7adle3o",
+   "userName": "Fatima Bello",
+   "action": "login",
+   "entity": "session",
+   "entityId": "usr-mw84xm7adle3o",
+   "detail": null,
+   "date": "2026-11-09T04:22:00.961Z"
+  },
+  {
+   "id": "aud-mw8r8i6d44a8h",
+   "userId": "usr-mw84xm4vdrtvq",
+   "userName": "Samuel Otieno",
+   "action": "login",
+   "entity": "session",
+   "entityId": "usr-mw84xm4vdrtvq",
+   "detail": null,
+   "date": "2026-11-09T04:22:00.709Z"
+  },
+  {
+   "id": "aud-mw8r8i0c2f27u",
+   "userId": "usr-mw84xm2je5ghd",
+   "userName": "Linda Chen",
+   "action": "login",
+   "entity": "session",
+   "entityId": "usr-mw84xm2je5ghd",
+   "detail": null,
+   "date": "2026-11-09T04:22:00.492Z"
+  },
+  {
+   "id": "aud-mw8r8hp5l04tt",
+   "userId": "usr-mw84xm062z3qq",
+   "userName": "Daniel Reyes",
+   "action": "login",
+   "entity": "session",
+   "entityId": "usr-mw84xm062z3qq",
+   "detail": null,
+   "date": "2026-11-09T04:22:00.089Z"
+  },
+  {
+   "id": "aud-mw8r8hidhnvcz",
+   "userId": "usr-mw84xlxm7qxv6",
+   "userName": "Grace Moyo",
+   "action": "login",
+   "entity": "session",
+   "entityId": "usr-mw84xlxm7qxv6",
+   "detail": null,
+   "date": "2026-11-09T04:21:59.845Z"
+  },
+  {
+   "id": "aud-mw8r8hbz5xqs8",
+   "userId": "usr-mw84xlqir7i8i",
+   "userName": "Dr. Sarah Adams",
+   "action": "login",
+   "entity": "session",
+   "entityId": "usr-mw84xlqir7i8i",
+   "detail": null,
+   "date": "2026-11-09T04:21:59.615Z"
+  },
+  {
+   "id": "aud-mw8r8gyu3tygs",
+   "userId": "usr-mw84xlo3ch4t7",
+   "userName": "System Administrator",
+   "action": "login",
+   "entity": "session",
+   "entityId": "usr-mw84xlo3ch4t7",
+   "detail": null,
+   "date": "2026-11-09T04:21:59.142Z"
+  },
+  {
+   "id": "aud-mw8r009h9bwd5",
+   "userId": "usr-mw84xm7adle3o",
+   "userName": "Fatima Bello",
+   "action": "login",
+   "entity": "session",
+   "entityId": "usr-mw84xm7adle3o",
+   "detail": null,
+   "date": "2026-11-09T04:15:24.245Z"
+  },
+  {
+   "id": "aud-mw8r00075ecza",
+   "userId": "usr-mw84xm4vdrtvq",
+   "userName": "Samuel Otieno",
+   "action": "login",
+   "entity": "session",
+   "entityId": "usr-mw84xm4vdrtvq",
+   "detail": null,
+   "date": "2026-11-09T04:15:23.911Z"
+  },
+  {
+   "id": "aud-mw8qzzmdqukdx",
+   "userId": "usr-mw84xm2je5ghd",
+   "userName": "Linda Chen",
+   "action": "login",
+   "entity": "session",
+   "entityId": "usr-mw84xm2je5ghd",
+   "detail": null,
+   "date": "2026-11-09T04:15:23.413Z"
+  },
+  {
+   "id": "aud-mw8qzzc5ohatl",
+   "userId": "usr-mw84xm062z3qq",
+   "userName": "Daniel Reyes",
+   "action": "login",
+   "entity": "session",
+   "entityId": "usr-mw84xm062z3qq",
+   "detail": null,
+   "date": "2026-11-09T04:15:23.045Z"
+  },
+  {
+   "id": "aud-mw8qzz2od8dla",
+   "userId": "usr-mw84xlxm7qxv6",
+   "userName": "Grace Moyo",
+   "action": "login",
+   "entity": "session",
+   "entityId": "usr-mw84xlxm7qxv6",
+   "detail": null,
+   "date": "2026-11-09T04:15:22.704Z"
+  },
+  {
+   "id": "aud-mw8qzyremhszo",
+   "userId": "usr-mw84xlqir7i8i",
+   "userName": "Dr. Sarah Adams",
+   "action": "login",
+   "entity": "session",
+   "entityId": "usr-mw84xlqir7i8i",
+   "detail": null,
+   "date": "2026-11-09T04:15:22.298Z"
+  },
+  {
+   "id": "aud-mw8qzykc77cqq",
+   "userId": "usr-mw84xlo3ch4t7",
+   "userName": "System Administrator",
+   "action": "login",
+   "entity": "session",
+   "entityId": "usr-mw84xlo3ch4t7",
+   "detail": null,
+   "date": "2026-11-09T04:15:22.045Z"
+  },
+  {
+   "id": "aud-mw8quuvxcehdc",
+   "userId": "usr-mw84xm7adle3o",
+   "userName": "Fatima Bello",
+   "action": "login",
+   "entity": "session",
+   "entityId": "usr-mw84xm7adle3o",
+   "detail": null,
+   "date": "2026-11-09T04:11:23.997Z"
+  },
+  {
+   "id": "aud-mw8quue46lnxy",
+   "userId": "usr-mw84xm4vdrtvq",
+   "userName": "Samuel Otieno",
+   "action": "login",
+   "entity": "session",
+   "entityId": "usr-mw84xm4vdrtvq",
+   "detail": null,
+   "date": "2026-11-09T04:11:23.356Z"
+  },
+  {
+   "id": "aud-mw8qutvlcyzde",
+   "userId": "usr-mw84xm2je5ghd",
+   "userName": "Linda Chen",
+   "action": "login",
+   "entity": "session",
+   "entityId": "usr-mw84xm2je5ghd",
+   "detail": null,
+   "date": "2026-11-09T04:11:22.689Z"
+  },
+  {
+   "id": "aud-mw8quthudrema",
+   "userId": "usr-mw84xm062z3qq",
+   "userName": "Daniel Reyes",
+   "action": "login",
+   "entity": "session",
+   "entityId": "usr-mw84xm062z3qq",
+   "detail": null,
+   "date": "2026-11-09T04:11:22.194Z"
+  },
+  {
+   "id": "aud-mw8qut4hu1tew",
+   "userId": "usr-mw84xlxm7qxv6",
+   "userName": "Grace Moyo",
+   "action": "login",
+   "entity": "session",
+   "entityId": "usr-mw84xlxm7qxv6",
+   "detail": null,
+   "date": "2026-11-09T04:11:21.713Z"
+  },
+  {
+   "id": "aud-mw8qusbrlhh1q",
+   "userId": "usr-mw84xlqir7i8i",
+   "userName": "Dr. Sarah Adams",
+   "action": "login",
+   "entity": "session",
+   "entityId": "usr-mw84xlqir7i8i",
+   "detail": null,
+   "date": "2026-11-09T04:11:20.679Z"
+  },
+  {
+   "id": "aud-mw8qus0lmxdji",
+   "userId": "usr-mw84xlo3ch4t7",
+   "userName": "System Administrator",
+   "action": "login",
+   "entity": "session",
+   "entityId": "usr-mw84xlo3ch4t7",
+   "detail": null,
+   "date": "2026-11-09T04:11:20.277Z"
+  },
+  {
+   "id": "aud-mw8qqtkypz4di",
+   "userId": "usr-mw84xlo3ch4t7",
+   "userName": "System Administrator",
+   "action": "login",
+   "entity": "session",
+   "entityId": "usr-mw84xlo3ch4t7",
+   "detail": null,
+   "date": "2026-11-09T04:08:15.682Z"
+  },
+  {
+   "id": "aud-mw8qqa6wbqv41",
+   "userId": "usr-mw84xlo3ch4t7",
+   "userName": "System Administrator",
+   "action": "login",
+   "entity": "session",
+   "entityId": "usr-mw84xlo3ch4t7",
+   "detail": null,
+   "date": "2026-11-09T04:07:50.553Z"
+  },
+  {
+   "id": "aud-mw865150s42np",
+   "userId": "usr-mw84xlo3ch4t7",
+   "userName": "System Administrator",
+   "action": "create",
+   "entity": "user",
+   "entityId": "usr-mw86512nxsb9m",
+   "detail": "Abbie (nurse)",
+   "date": "2026-11-08T18:31:26.724Z"
+  },
+  {
+   "id": "aud-mw85xzjh1hwl6",
+   "userId": "usr-mw84xlo3ch4t7",
+   "userName": "System Administrator",
+   "action": "login",
+   "entity": "session",
+   "entityId": "usr-mw84xlo3ch4t7",
+   "detail": null,
+   "date": "2026-11-08T18:25:58.061Z"
+  },
+  {
+   "id": "aud-mw85k30younku",
+   "userId": "usr-mw84xlo3ch4t7",
+   "userName": "System Administrator",
+   "action": "login",
+   "entity": "session",
+   "entityId": "usr-mw84xlo3ch4t7",
+   "detail": null,
+   "date": "2026-11-08T18:15:09.394Z"
+  },
+  {
+   "id": "aud-mw85jjhnadouy",
+   "userId": "usr-mw84xlo3ch4t7",
+   "userName": "System Administrator",
+   "action": "update",
+   "entity": "encounter",
+   "entityId": "enc-mw85g7ag9u0ke",
+   "detail": "open",
+   "date": "2026-11-08T18:14:44.075Z"
+  },
+  {
+   "id": "aud-mw85g7ag6gh36",
+   "userId": "usr-mw84xlo3ch4t7",
+   "userName": "System Administrator",
+   "action": "create",
+   "entity": "encounter",
+   "entityId": "enc-mw85g7ag9u0ke",
+   "detail": "MRN-0003",
+   "date": "2026-11-08T18:12:08.296Z"
+  },
+  {
+   "id": "aud-mw859066u9i8e",
+   "userId": "usr-mw84xlo3ch4t7",
+   "userName": "System Administrator",
+   "action": "create",
+   "entity": "patient",
+   "entityId": "pat-mw859063eqdn8",
+   "detail": "Jane Doe (MRN-0010)",
+   "date": "2026-11-08T18:06:32.478Z"
+  },
+  {
+   "id": "aud-mw854cetna7wr",
+   "userId": "usr-mw84xm4vdrtvq",
+   "userName": "Samuel Otieno",
+   "action": "login",
+   "entity": "session",
+   "entityId": "usr-mw84xm4vdrtvq",
+   "detail": null,
+   "date": "2026-11-08T18:02:55.061Z"
+  },
+  {
+   "id": "aud-mw853xugblo2y",
+   "userId": "usr-mw84xlqir7i8i",
+   "userName": "Dr. Sarah Adams",
+   "action": "login",
+   "entity": "session",
+   "entityId": "usr-mw84xlqir7i8i",
+   "detail": null,
+   "date": "2026-11-08T18:02:36.184Z"
+  },
+  {
+   "id": "aud-mw8525elzd5zd",
+   "userId": "usr-mw84xlo3ch4t7",
+   "userName": "System Administrator",
+   "action": "login",
+   "entity": "session",
+   "entityId": "usr-mw84xlo3ch4t7",
+   "detail": null,
+   "date": "2026-11-08T18:01:12.669Z"
+  },
+  {
+   "id": "aud-mw8501k9uwdoy",
+   "userId": "usr-mw84xlo3ch4t7",
+   "userName": "System Administrator",
+   "action": "login",
+   "entity": "session",
+   "entityId": "usr-mw84xlo3ch4t7",
+   "detail": null,
+   "date": "2026-11-08T17:59:34.377Z"
+  },
+  {
+   "id": "aud-mw84yl0386pcg",
+   "userId": "usr-mw84xlo3ch4t7",
+   "userName": "System Administrator",
+   "action": "discharge",
+   "entity": "admission",
+   "entityId": "adm-mw84ykzvsxinf",
+   "detail": "1 day(s)",
+   "date": "2026-11-08T17:58:26.259Z"
+  },
+  {
+   "id": "aud-mw84yl0188q3g",
+   "userId": "usr-mw84xlo3ch4t7",
+   "userName": "System Administrator",
+   "action": "bill",
+   "entity": "invoice",
+   "entityId": "inv-mw84ykzy1y13j",
+   "detail": "Bed charge — General Male (1 day)",
+   "date": "2026-11-08T17:58:26.257Z"
+  },
+  {
+   "id": "aud-mw84ykzvt16ek",
+   "userId": "usr-mw84xlo3ch4t7",
+   "userName": "System Administrator",
+   "action": "admit",
+   "entity": "admission",
+   "entityId": "adm-mw84ykzvsxinf",
+   "detail": "bed General-02",
+   "date": "2026-11-08T17:58:26.251Z"
+  },
+  {
+   "id": "aud-mw84ykzpmrt0n",
+   "userId": "usr-mw84xlo3ch4t7",
+   "userName": "System Administrator",
+   "action": "payment",
+   "entity": "invoice",
+   "entityId": "inv-mw84ykyutqd2z",
+   "detail": "67 via Mobile Money",
+   "date": "2026-11-08T17:58:26.245Z"
+  },
+  {
+   "id": "aud-mw84ykzkkar77",
+   "userId": "usr-mw84xlo3ch4t7",
+   "userName": "System Administrator",
+   "action": "update",
+   "entity": "labOrder",
+   "entityId": "lab-mw84ykyq0b3zr",
+   "detail": "completed",
+   "date": "2026-11-08T17:58:26.240Z"
+  },
+  {
+   "id": "aud-mw84ykzjli5n1",
+   "userId": "usr-mw84xlo3ch4t7",
+   "userName": "System Administrator",
+   "action": "bill",
+   "entity": "invoice",
+   "entityId": "inv-mw84ykyutqd2z",
+   "detail": "Lab: Malaria Smear",
+   "date": "2026-11-08T17:58:26.239Z"
+  },
+  {
+   "id": "aud-mw84ykzez70w7",
+   "userId": "usr-mw84xlo3ch4t7",
+   "userName": "System Administrator",
+   "action": "update",
+   "entity": "labOrder",
+   "entityId": "lab-mw84ykyq0b3zr",
+   "detail": "processing",
+   "date": "2026-11-08T17:58:26.235Z"
+  },
+  {
+   "id": "aud-mw84ykzcwo5bb",
+   "userId": "usr-mw84xlo3ch4t7",
+   "userName": "System Administrator",
+   "action": "update",
+   "entity": "labOrder",
+   "entityId": "lab-mw84ykyq0b3zr",
+   "detail": "sample-collected",
+   "date": "2026-11-08T17:58:26.232Z"
+  },
+  {
+   "id": "aud-mw84ykz6ijy19",
+   "userId": "usr-mw84xlo3ch4t7",
+   "userName": "System Administrator",
+   "action": "dispense",
+   "entity": "drug",
+   "entityId": "drg-mw84xma2phqu3",
+   "detail": "18 x Paracetamol 500mg",
+   "date": "2026-11-08T17:58:26.226Z"
+  },
+  {
+   "id": "aud-mw84ykz4gtgzg",
+   "userId": "usr-mw84xlo3ch4t7",
+   "userName": "System Administrator",
+   "action": "bill",
+   "entity": "invoice",
+   "entityId": "inv-mw84ykyutqd2z",
+   "detail": "Pharmacy: Paracetamol 500mg",
+   "date": "2026-11-08T17:58:26.224Z"
+  },
+  {
+   "id": "aud-mw84ykyy409eg",
+   "userId": "usr-mw84xlo3ch4t7",
+   "userName": "System Administrator",
+   "action": "update",
+   "entity": "encounter",
+   "entityId": "enc-mw84ykyd0q6xk",
+   "detail": "closed",
+   "date": "2026-11-08T17:58:26.218Z"
+  },
+  {
+   "id": "aud-mw84ykyxxo4bw",
+   "userId": "usr-mw84xlo3ch4t7",
+   "userName": "System Administrator",
+   "action": "bill",
+   "entity": "invoice",
+   "entityId": "inv-mw84ykyutqd2z",
+   "detail": "Consultation — Dr. Sarah Adams (2026-11-08)",
+   "date": "2026-11-08T17:58:26.217Z"
+  },
+  {
+   "id": "aud-mw84ykyqh90ww",
+   "userId": "usr-mw84xlo3ch4t7",
+   "userName": "System Administrator",
+   "action": "order",
+   "entity": "labOrder",
+   "entityId": "lab-mw84ykyq0b3zr",
+   "detail": "Malaria Smear",
+   "date": "2026-11-08T17:58:26.210Z"
+  },
+  {
+   "id": "aud-mw84ykylbf980",
+   "userId": "usr-mw84xlo3ch4t7",
+   "userName": "System Administrator",
+   "action": "update",
+   "entity": "encounter",
+   "entityId": "enc-mw84ykyd0q6xk",
+   "detail": "open",
+   "date": "2026-11-08T17:58:26.205Z"
+  },
+  {
+   "id": "aud-mw84ykyhxj8zj",
+   "userId": "usr-mw84xlo3ch4t7",
+   "userName": "System Administrator",
+   "action": "update",
+   "entity": "encounter",
+   "entityId": "enc-mw84ykyd0q6xk",
+   "detail": "open",
+   "date": "2026-11-08T17:58:26.201Z"
+  },
+  {
+   "id": "aud-mw84ykydb040p",
+   "userId": "usr-mw84xlo3ch4t7",
+   "userName": "System Administrator",
+   "action": "create",
+   "entity": "encounter",
+   "entityId": "enc-mw84ykyd0q6xk",
+   "detail": "MRN-0009",
+   "date": "2026-11-08T17:58:26.197Z"
+  },
+  {
+   "id": "aud-mw84yky6shkxw",
+   "userId": "usr-mw84xlo3ch4t7",
+   "userName": "System Administrator",
+   "action": "update",
+   "entity": "appointment",
+   "entityId": "apt-mw84yky3tqdk4",
+   "detail": "checked-in",
+   "date": "2026-11-08T17:58:26.190Z"
+  },
+  {
+   "id": "aud-mw84yky31hn42",
+   "userId": "usr-mw84xlo3ch4t7",
+   "userName": "System Administrator",
+   "action": "create",
+   "entity": "appointment",
+   "entityId": "apt-mw84yky3tqdk4",
+   "detail": "2026-11-08 14:00 with Dr. Sarah Adams",
+   "date": "2026-11-08T17:58:26.187Z"
+  },
+  {
+   "id": "aud-mw84ykxveunfu",
+   "userId": "usr-mw84xlo3ch4t7",
+   "userName": "System Administrator",
+   "action": "create",
+   "entity": "patient",
+   "entityId": "pat-mw84ykxslenco",
+   "detail": "Test Patient (MRN-0009)",
+   "date": "2026-11-08T17:58:26.179Z"
+  },
+  {
+   "id": "aud-mw84xyjl1do4f",
+   "userId": "usr-mw84xlo3ch4t7",
+   "userName": "System Administrator",
+   "action": "login",
+   "entity": "session",
+   "entityId": "usr-mw84xlo3ch4t7",
+   "detail": null,
+   "date": "2026-11-08T17:57:57.153Z"
+  },
+  {
+   "id": "aud-mw84xma4t9mem",
+   "userId": "usr-mw84xlo3ch4t7",
+   "userName": "System Administrator",
+   "action": "seed",
+   "entity": "system",
+   "entityId": null,
+   "detail": "Demo data initialized",
+   "date": "2026-11-08T17:57:41.260Z"
+  }
+ ],
+ "counters": {
+  "mrn": 11,
+  "invoice": 5
+ }
+}
